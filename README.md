@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Ricardo Medina</h1>
-<h3 align="center">Full Stack Web Developer</h3>
+<h1 align="left">Hi 👋, I'm Ricardo Medina</h1>
+<h3 align="left">Full Stack Web Developer</h3>
 
-<p align="center" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ricomedi&theme=onedark&column=3&margin-w=15&margin-h=15" alt="ricomedi" /></a> </p>
+<p align="left" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ricomedi&theme=onedark&&row=2&column=3" alt="ricomedi" /></a> </p>
 
 -  I’m currently learning **React**
 
