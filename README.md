@@ -28,4 +28,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ricomedi&show_icons=true&locale=en" alt="ricomedi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ricomedi&" alt="ricomedi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ricomedi&" alt="ricomedi" /></p> &nbsp;
+<img src="https://profile-counter.glitch.me/RicoMedi/count.svg" alt="Visitor Count">
+
