@@ -3,9 +3,6 @@
   ![bahroo-hacker](https://github.com/RicoMedi/RicoMedi/assets/96807479/8743e75b-b501-400d-9ad7-3ef1a7e714dc)
  
 
-
-
-
 <h3 align="left">A Full Stack Web Developer</h3>
 
 <p align="left" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ricomedi&theme=onedark&&row=2&column=3" alt="ricomedi" /></a> </p>
@@ -30,10 +27,6 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/webpack/webpack.png">Webpack</code>
 </div>&nbsp;
 
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricomedi&layout=compact)](https://github.com/ricomedi/github-readme-stats)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ricomedi&show_icons=true&locale=en" alt="ricomedi" /></p>
 
