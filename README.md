@@ -31,6 +31,10 @@
 </div>&nbsp;
 
 
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricomedi&layout=compact)](https://github.com/ricomedi/github-readme-stats)
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ricomedi&show_icons=true&locale=en" alt="ricomedi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ricomedi&" alt="ricomedi" /></p> &nbsp;
