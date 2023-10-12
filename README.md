@@ -1,8 +1,5 @@
 <h1 align="left">Hi, Im Ricardo </h1>
   
-  ![bahroo-hacker](https://github.com/RicoMedi/RicoMedi/assets/96807479/8743e75b-b501-400d-9ad7-3ef1a7e714dc)
- 
-
 <h3 align="left">A Full Stack Web Developer</h3>
 
 <p align="left" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ricomedi&theme=onedark&&row=2&column=3" alt="ricomedi" /></a> </p>
@@ -33,5 +30,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ricomedi&" alt="ricomedi" /></p> &nbsp;
 <img src="https://profile-counter.glitch.me/RicoMedi/count.svg" alt="Visitor Count" >
   
-![dancing-code](https://github.com/RicoMedi/RicoMedi/assets/96807479/f3f0d7ce-480c-4aa3-b9c5-d0df2777f081) ![code-coding](https://github.com/RicoMedi/RicoMedi/assets/96807479/af8db79b-770d-44ee-a945-4454bd35916b)
+![code-coding](https://github.com/RicoMedi/RicoMedi/assets/96807479/af8db79b-770d-44ee-a945-4454bd35916b)
 
