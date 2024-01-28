@@ -31,5 +31,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ricomedi&" alt="ricomedi" /></p> &nbsp;
 <img src="https://profile-counter.glitch.me/RicoMedi/count.svg" alt="Visitor Count" >
   
-![code-coding](https://github.com/RicoMedi/RicoMedi/assets/96807479/af8db79b-770d-44ee-a945-4454bd35916b)
+[![GitHub Streak](https://streak-stats.demolab.com?user=RicoMedi&theme=gruvbox&hide_total_contributions=true)](https://git.io/streak-stats)
 
