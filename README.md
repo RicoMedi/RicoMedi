@@ -7,30 +7,7 @@
 
 </p>
 
-<h2>Projects in Development:</h2>
-<div>
-  
-  ![honey](https://github.com/RicoMedi/RicoMedi/assets/96807479/5673b5ec-7f22-408e-8312-edb7df27d5f8)
-  
-</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<div>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">Javascript</code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">React</code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">HTML</code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">CSS</code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">Node.Js</code>    
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/babel/babel.png">Babel</code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/webpack/webpack.png">Webpack</code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/heroku/heroku.png">Heroku</code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/vercel/vercel.png">Vercel</code>
-</br>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/typescript/typescript.png">Typescript</code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/redux/redux.png">Redux</code>
-</div>&nbsp;
-
-<div>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ricomedi&show_icons=true&locale=en" alt="ricomedi" /></p>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=RicoMedi&theme=github-dark-blue" alt="GitHub Streak" /></a>
   
