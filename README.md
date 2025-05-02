@@ -8,8 +8,6 @@
 </p>
 
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=RicoMedi&theme=github-dark-blue" alt="GitHub Streak" /></a>
-  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricomedi&layout=compact)](https://github.com/ricomedi/github-readme-stats)
   
   <h3>Views:</br></h3> 
